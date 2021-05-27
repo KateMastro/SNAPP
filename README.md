@@ -1,1 +1,1 @@
-# SNAPP
+# SNAPP Projects
